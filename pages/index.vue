@@ -16,4 +16,8 @@ export default {
 </script>
 
 <style scoped>
+.Main__Container {
+  width: 100vw;
+  height: 100vh;
+}
 </style>
